@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#holder {
+	width: 980px;
+	height: auto;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+
+#header {
+	height: 70px;
+	background: none;
+	margin-bottom: 11px;
+}
+
+#navigation {
+	height: 60px;
+	background-color:rgb(13, 13, 13);
+}
+
+#content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#pageheading {
+	height:auto;
+	padding: 11px;
+}
+#contentleft {
+	width: 280px;
+	float:left;
+	padding-left:11px;
+	padding-top: 11px;
+}
+#contentright {
+	width: 680px;
+	float:right;
+}
+
+#footer {
+	height:300px;
+}
+
+h1 {
+	margin: 0;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color:#A29999;
+}
+
+h2 {
+	margin: 0px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight:lighter;
+	color: #B2B2B2;
+}
+
+h6 {
+	margin: 0px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight:lighter;
+	font-size: 14px;
+	color: #B2B2B2;
+}
